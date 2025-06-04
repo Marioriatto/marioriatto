@@ -1,16 +1,5 @@
 ## Pls help me make an aesthetic profile !!!
-# 1
-## 2 
-### 3
-#### 4 
-##### 5
-###### 6
-1. ahanldt101
-2. dross
-3. zetassj
-- bryand
-+ marcelo
-* fer
+
 <!--
 **Marioriatto/marioriatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,3 +10,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: i love peanuts...
 ## Waos
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GitHub Logo](/images/logo.png)
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1 | Row 2 | Row 3 |
+| Row 4 | Row 5 | Row 6 |
