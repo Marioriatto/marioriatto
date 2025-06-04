@@ -2,19 +2,17 @@
   <img src = "snoopy.png">
   <img src = "python.png">
 </p>
-
-<!--
-**Marioriatto/marioriatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-- 🌱 I’m currently learning Numpy/Pyplot/Pandas ...
-- 🤔 I’m looking for help with project ideas...
-- ⚡ Fun fact: i love peanuts...
-## Waos
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<br>
+<p align = "center">
+  <h3>
+    currrently learning Pyplot, Numpy, and Pandas 
+  </h3>
+</p>
+<br>
+<p>
 | TIC | TAC | TOE |
 | -------- | -------- | -------- |
 | O | X | O |
 | O | X | X |
 | X | O | O |
+</p>
