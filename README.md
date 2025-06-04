@@ -1,3 +1,5 @@
+![Snoopy](images/snoopy.png)
+
 ## Pls help me make an aesthetic profile !!!
 
 <!--
