@@ -1,4 +1,4 @@
-![Snoopy](images/snoopy.png)
+![Snoopy](snoopy.png)
 
 ## Pls help me make an aesthetic profile !!!
 
