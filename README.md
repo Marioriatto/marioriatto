@@ -1,6 +1,7 @@
-![Snoopy](snoopy.png)
-
-## Pls help me make an aesthetic profile !!!
+<p align = "center">
+  <img src = "snoopy.png">
+  <img src = "python.png">
+</p>
 
 <!--
 **Marioriatto/marioriatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
