@@ -6,7 +6,4 @@
     currrently learning Pyplot, Numpy, and Pandas 
   </h3>
 <br>
-<h1>
-andres y las almohadas
-</h1>
 </p>
