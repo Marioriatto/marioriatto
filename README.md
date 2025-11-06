@@ -1,1 +1,1 @@
-<img src="/gravatar.jpg" alt="catito">
+<img src="/.github/images/gravatar.jpg" alt="catito">
