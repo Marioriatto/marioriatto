@@ -8,4 +8,4 @@
 
 ---
 
-**¿Te interesa mi perfil para un rol de ML/Software?** Escríbeme por **LinkedIn**: [](https://www.linkedin.com/in/mario-camilo-rodríguez-gaitán-26b05a334).
+**¿Te interesa mi perfil para un rol de ML/Software?** Escríbeme por **LinkedIn**: [Aquí](https://www.linkedin.com/in/mario-camilo-rodríguez-gaitán-26b05a334).
